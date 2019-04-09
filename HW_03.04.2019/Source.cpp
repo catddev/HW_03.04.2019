@@ -54,8 +54,7 @@ int main() {
 			in_file >> y >> r;
 			tmp.setYear(y);
 			tmp.setRun(r);
-			//in_file.ignore();
-			
+
 			add(bs, tmp);
 		}
 		
